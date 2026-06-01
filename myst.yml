@@ -15,10 +15,10 @@ project:
             - file: platform/recruitment/brd.md
             - file: platform/recruitment/prd.md
             - file: platform/recruitment/add.md
-        - title: 薪资核算
+        - title: 薪酬
           children:
-            - file: platform/salary/brd.md
-            - file: platform/salary/prd.md
-            - file: platform/salary/add.md
+            - file: platform/compensation/brd.md
+            - file: platform/compensation/prd.md
+            - file: platform/compensation/add.md
 site:
   template: book-theme
