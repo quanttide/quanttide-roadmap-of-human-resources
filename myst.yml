@@ -7,18 +7,18 @@ project:
   authors: []
   toc:
     - file: index.md
-    - title: BRD（业务需求文档）
+    - title: 平台文档
       children:
-        - file: brd/index.md
-        - file: brd/recruitment.md
-        - file: brd/salary.md
-    - title: PRD（产品需求文档）
-      children:
-        - file: prd/recruitment.md
-        - file: prd/salary.md
-    - title: ADD（架构设计文档）
-      children:
-        - file: add/recruitment.md
-        - file: add/salary.md
+        - file: platform/index.md
+        - title: 招聘
+          children:
+            - file: platform/recruitment/brd.md
+            - file: platform/recruitment/prd.md
+            - file: platform/recruitment/add.md
+        - title: 薪资核算
+          children:
+            - file: platform/salary/brd.md
+            - file: platform/salary/prd.md
+            - file: platform/salary/add.md
 site:
   template: book-theme
