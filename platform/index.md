@@ -5,7 +5,8 @@
 ## qtcloud-human（人事云）
 
 - [薪酬](qtcloud-human/compensation/index.md)
+- [招聘](qtcloud-human/recruitment/index.md)
 
 ## qtrecurit（招聘平台）
 
-- [招聘](qtrecurit/recruitment/index.md)
+- [招聘门户落地顺序](qtrecurit/portal.md)
