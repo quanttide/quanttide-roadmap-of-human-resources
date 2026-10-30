@@ -6,6 +6,7 @@
 
 ### Removed
 
+- 删除 `qtrecurit/portal.md`（招聘门户落地路线，用户判删除）：多租户三期已随商业模式暂缓，MVP 的 dmu 雇主已下线；二期投递线上化将来在联盟侧重写
 - 归档招聘模块三件套（brd/prd/add，AI 初筛）至量潮联盟归档仓：招聘与 qtrecurit 解耦后，人事云不再承载招聘；索引产品简介、README 链接与 myst 导航同步清理（myst 的 platform/ 路径本就是坏链）
 
 ### Added
