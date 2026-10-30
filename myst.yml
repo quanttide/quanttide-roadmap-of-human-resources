@@ -10,11 +10,6 @@ project:
     - title: 平台文档
       children:
         - file: platform/index.md
-        - title: 招聘
-          children:
-            - file: platform/recruitment/brd.md
-            - file: platform/recruitment/prd.md
-            - file: platform/recruitment/add.md
         - title: 薪酬
           children:
             - file: platform/compensation/brd.md

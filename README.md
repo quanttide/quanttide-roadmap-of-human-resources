@@ -21,10 +21,6 @@
 - [qtcloud-human/compensation/brd.md](qtcloud-human/compensation/brd.md)
 - [qtcloud-human/compensation/index.md](qtcloud-human/compensation/index.md)
 - [qtcloud-human/compensation/prd.md](qtcloud-human/compensation/prd.md)
-- [qtcloud-human/recruitment/add.md](qtcloud-human/recruitment/add.md)
-- [qtcloud-human/recruitment/brd.md](qtcloud-human/recruitment/brd.md)
-- [qtcloud-human/recruitment/index.md](qtcloud-human/recruitment/index.md)
-- [qtcloud-human/recruitment/prd.md](qtcloud-human/recruitment/prd.md)
 - [qtrecurit/portal.md](qtrecurit/portal.md)
 
 ## 约定
